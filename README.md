@@ -140,9 +140,6 @@ The API documentation is available at `/api-docs` when running the server.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -151,6 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB team for database support
 - All contributors and maintainers
 
-## Support
-
-For support, email support@yourdomain.com or create an issue in the repository. 
+ 
